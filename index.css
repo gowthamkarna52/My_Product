@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body{
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
@@ -130,4 +129,5 @@ body{
   .hero p {
     font-size: 1rem;
   }
+
 }
