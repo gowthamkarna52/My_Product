@@ -19,7 +19,6 @@ body{
   top: 0;
   z-index: 1000;
 }
-
 .navbar .logo{
   font-size: 1.5rem;
   font-weight: 600;
@@ -131,3 +130,4 @@ body{
   }
 
 }
+
